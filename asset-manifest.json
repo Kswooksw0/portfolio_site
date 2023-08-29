@@ -1,0 +1,14 @@
+{
+  "files": {
+    "main.css": "/portfolio_site/static/css/main.de1d9453.css",
+    "main.js": "/portfolio_site/static/js/main.732b3c1e.js",
+    "static/media/sangwoo-logo.png": "/portfolio_site/static/media/sangwoo-logo.cc5f5b1fbaefb0ee2181.png",
+    "index.html": "/portfolio_site/index.html",
+    "main.de1d9453.css.map": "/portfolio_site/static/css/main.de1d9453.css.map",
+    "main.732b3c1e.js.map": "/portfolio_site/static/js/main.732b3c1e.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.de1d9453.css",
+    "static/js/main.732b3c1e.js"
+  ]
+}

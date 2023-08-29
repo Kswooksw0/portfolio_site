@@ -1,0 +1,32 @@
+:root {
+    font-size: 16px;;
+}
+
+body {
+    margin: 0;
+}
+
+body {
+    width: 100vw;
+    height: 100vh;
+    /* border: red solid 5px; */
+}
+p {
+    border: yellow solid 5px;
+}
+
+#sketch-holder {
+    position: relative;
+    left: calc(100% * 1/6);
+    width:calc(100% * 5/6);
+    height:100vh;
+    /* background-color: bisque; */
+    /* border: blue solid 5px; */
+}
+#projects {
+    position: relative;
+    left: calc(100% * 1/6);
+    width:calc(100% * 5/6);
+    height:100vh;
+}
+
